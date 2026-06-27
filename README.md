@@ -15,4 +15,4 @@ not in a group but yes
 yes
 – Where is the entry point to your project? (src/main/Main.java for
 example)
-src/main/main.java
+src/main/
