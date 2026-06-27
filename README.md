@@ -8,11 +8,11 @@ Yes
 – Do you have a public repository for your Project?
 yes
 – What is the link to your GitHub repository?
-
+https://github.com/CMols30/YourProj
 – If you are in a group, does everyone have write access to the github repo?
 not in a group but yes
 – Do you have a “Hello World” program that compiles and runs?
 yes
 – Where is the entry point to your project? (src/main/Main.java for
 example)
-
+src/main/main.java
